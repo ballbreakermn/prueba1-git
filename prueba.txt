@@ -1,10 +1,13 @@
 
-habilitar por defecto bash en visual(dos opciones):
+-habilitar por defecto bash en visual(dos opciones):
 https://youtu.be/QU4vz3cUNP4?si=jy1khuEiJ-BcXAFu
 https://youtu.be/lo7O_RyPzek?si=DlnlwTCVIj3HJNkN
 
-configuracion token solucion 1:
+-configuracion token solucion 1:
 https://youtu.be/yfL5pu-IYbQ?si=BPq4t5_ZG77h19Yg
 
-github colaborativo:
+-github colaborativo:
 https://gist.github.com/BCasal/026e4c7f5c71418485c1
+
+-explicacion git reset:
+https://youtu.be/Iu1WgGafKGc?si=AkU4jUl5WQBBt_44
