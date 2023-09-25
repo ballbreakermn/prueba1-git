@@ -1,6 +1,7 @@
-segunda linea
-ver configuracion en windows
+
+habilitar por defecto bash en visual(dos opciones):
 https://youtu.be/QU4vz3cUNP4?si=jy1khuEiJ-BcXAFu
+https://youtu.be/lo7O_RyPzek?si=DlnlwTCVIj3HJNkN
 
 configuracion token solucion 1:
 https://youtu.be/yfL5pu-IYbQ?si=BPq4t5_ZG77h19Yg
