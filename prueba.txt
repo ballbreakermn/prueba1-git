@@ -1,6 +1,6 @@
 
 -habilitar por defecto bash en visual(dos opciones):
-https://youtu.be/QU4vz3cUNP4?si=jy1khuEiJ-BcXAFu
+https://youtu.be/QU4vz3cUNP4?si=jy1khuEiJ-BcXAFu (agregar a demanda)
 https://youtu.be/lo7O_RyPzek?si=DlnlwTCVIj3HJNkN
 
 -configuracion token solucion 1:
